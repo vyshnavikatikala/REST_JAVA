@@ -1,4 +1,4 @@
-package eyrest;
+package javarest;
 
 import javax.ws.rs.FormParam;
 import javax.ws.rs.GET;
